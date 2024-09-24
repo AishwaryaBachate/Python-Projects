@@ -117,8 +117,8 @@ Other top customers such as A59 and A72 also made substantial repayments.
 This insight suggests that certain customers in Bangalore are critical to overall repayment performance.
 
 Repayment Trends in Different Products:
-The analysis showed that repayment behaviors varied across different product categories. For example, in the case of the Silver product for the year 2004 in Bangalore, the top customer repaid over 800,000, indicating the importance of this segment
-.
+The analysis showed that repayment behaviors varied across different product categories. For example, in the case of the Silver product for the year 2004 in Bangalore, the top customer repaid over 800,000, indicating the importance of this segment.
+
 Yearly Repayment Performance:
 Yearly analysis revealed certain customers consistently making high repayments, especially in specific cities like Bangalore. This trend can help in identifying loyal, high-value customers.
 
