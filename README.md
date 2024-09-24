@@ -150,4 +150,3 @@ Recognize and plan for months that historically show higher repayment activity. 
 **Conclusion**
 
 This credit card repayment analysis provides valuable insights into customer behavior, product performance, and city-wise repayment trends. By focusing on high-repayment customers and understanding how repayment behavior varies across products, cities, and time periods, the company can refine its credit offerings, optimize marketing strategies, and ultimately improve repayment performance. The recommendations derived from this analysis are aimed at maximizing customer value and enhancing the overall efficiency of credit management.
-
